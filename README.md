@@ -17,7 +17,9 @@ Create a Telegram Bot that will perform several functions:
    
 ## Contents 📝
 To implement the first function, we used a fine tuned CV _____ model
+
 To implement the second function, the NLP ____ mode was used.
+
 We chose these models because they are superior to other models in terms of ease, accuracy and speed of operation.
 
 ## Libraries 📖
