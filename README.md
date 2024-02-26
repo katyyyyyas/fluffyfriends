@@ -1,11 +1,13 @@
 # FLUFFY FRIENDS 🐈‍⬛|🐩
-# Natural language processing🙂
+##Computer vision & natural language processing 
+
 Elbrus Bootcamp | Phase-3 | Final Team Project
 
 ## Team🧑🏻‍💻
-1. [Baidildin Yerlan ](https://github.com/YerlanBaidildin)
+
+1. [Alexander Van Biervliet](https://github.com/Awlly)
 2. [Timofeeva Ekaterina](https://github.com/katyyyyyas)
-3. [Alexander Van Biervliet](https://github.com/Awlly)
+3. [Baidildin Yerlan ](https://github.com/YerlanBaidildin)
 
 ## Task 📌
 Create a Telegram Bot that will perform several functions:
@@ -14,6 +16,9 @@ Create a Telegram Bot that will perform several functions:
 
    
 ## Contents 📝
+To implement the first function, we used a fine tuned CV _____ model
+To implement the second function, the NLP ____ mode was used.
+We chose these models because they are superior to other models in terms of ease, accuracy and speed of operation.
 
 ## Libraries 📖
 ```python
