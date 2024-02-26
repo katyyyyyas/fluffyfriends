@@ -1,5 +1,4 @@
 # FLUFFY FRIENDS 🐈‍⬛&🐩
-### cv_project
 # Natural language processing🙂
 Elbrus Bootcamp | Phase-3 | Final Team Project
 
