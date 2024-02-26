@@ -1,4 +1,4 @@
-# FLUFFY FRIENDS 🐈‍⬛&🐩
+# FLUFFY FRIENDS 🐈‍⬛|🐩
 # Natural language processing🙂
 Elbrus Bootcamp | Phase-3 | Final Team Project
 
